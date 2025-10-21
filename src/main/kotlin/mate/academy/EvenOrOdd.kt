@@ -7,6 +7,5 @@ fun evenOrOdd(number: Int) = if (number % 2 == 0) {
 }
 
 fun main() {
-    fun evenOrOdd(number: Int) = if (number % 2 == 0) {
     println("10 e ${evenOrOdd(10)}")
 }
